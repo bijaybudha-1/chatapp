@@ -2,7 +2,7 @@ import React from 'react'
 
 const Calls = () => {
   return (
-    <div>Calls</div>
+    <div>Calls Users</div>
   )
 }
 
